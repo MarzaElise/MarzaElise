@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MarzaElise
-- 👀 I’m interested in you
-- 🌱 I’m currently learning python cos js sucks
+- 👋 Hi, I’m Marcus
+- 👀 I’m interested in Making discord bots and using FastApi
+- 🌱 I’m currently learning python cos I cant install node.js
 - 💞️ I’m looking to collaborate on discord bots
-- 📫 How to reach me discord kekw
+- 📫 How to reach me -> discord kekw @Marcus | Bot Dev#4438
 
 <!---
 MarzaElise/MarzaElise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

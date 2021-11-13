@@ -10,3 +10,11 @@
 MarzaElise/MarzaElise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# Github Stats
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <br>
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MarzaElise&show_icons=true&hide_border=true&theme=radical"/>
+</details>
